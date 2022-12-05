@@ -46,9 +46,9 @@ let x = 12;
 
 /* SCRIVI QUI LA TUA RISPOSTA */
 name = "guettech";
-const cognome = "guettech";
+const cognome = "Guettech";
 
-//cognome = "ciao";
+//cognome = name;
 //console.log(cognome);
 
 /* ESERCIZIO 6
