@@ -14,8 +14,8 @@ REGOLE
 /* SCRIVI QUI LA TUA RISPOSTA */
 
 /*
-string - datatype di tipo stringa contenente parole o frasi di tipo alfanumerico - es let number = 5
-number - datatype di tipo numerico contenente numeri di qualsiasi tipo interi o decimali- es let stringa="ciao"
+string - datatype di tipo stringa contenente parole o frasi contenente lettere e numeri- es let stringa="ciao"
+number - datatype di tipo numerico contenente numeri di qualsiasi tipo interi o decimali- es let numero1= 5
 boolean - datatype di tipo booleano contenente un valore vero o falso (true o false)- es let bool= true
 undefined - datatype di valore non definito dunque non ancora assegnato, la variabile è stata definita ma il valore non ancora assegnato - es let nondefinito
 null - datatype di valore nullo o vuoto - es let valore = null
