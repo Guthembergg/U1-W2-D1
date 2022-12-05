@@ -13,6 +13,14 @@ REGOLE
 
 /* SCRIVI QUI LA TUA RISPOSTA */
 
+/*
+string datatype stringa contenente parole o frasi
+number datatype numero contenente numeri
+boolean datatype booleano contenente un valore vero o falso
+undefined valore non definito dunque non ancora assegnato
+null valore nullo vuoto 
+*/
+
 /* ESERCIZIO 2
  Crea una variable chiamata "name" e assegna ad essa il tuo nome, sotto forma di stringa.
 */
@@ -38,20 +46,25 @@ let x = 12;
 /* SCRIVI QUI LA TUA RISPOSTA */
 name = "guettech";
 const cognome = "guettech";
-cognome = "ciao";
+
+//cognome = "ciao";
+//console.log(cognome);
+
 /* ESERCIZIO 6
  Esegui una sottrazione tra i numeri 4 e la variable "x" appena dichiarata (che contiene il numero 12).
 */
 
 /* SCRIVI QUI LA TUA RISPOSTA */
 let risultato = 4 - x;
+console.log(risultato);
 /* ESERCIZIO 7
  Crea due variabili: "name1" e "name2". Assegna a name1 la stringa "john", e assegna a name2 la stringa "John" (con la J maiuscola!).
  Verifica che name1 sia diversa da name2 (suggerimento: è la stessa cosa di verificare che la loro uguaglianza sia falsa).
  EXTRA: verifica che la loro uguaglianza diventi true se entrambe vengono trasformate in lowercase (senza cambiare il valore di name2!).
 */
+
+/* SCRIVI QUI LA TUA RISPOSTA */
 name1 = "john";
 name2 = "John";
 console.log(name1 === name2);
-console.log(name1.lowercase + name1 === name2);
-/* SCRIVI QUI LA TUA RISPOSTA */
+console.log(name2.lowercase === name1.lowercase);
