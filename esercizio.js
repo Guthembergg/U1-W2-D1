@@ -48,7 +48,7 @@ let x = 12;
 name1 = "guettech";
 const cognome = "Guettech";
 
-//cognome = name;
+//cognome = name1;
 //console.log(cognome);
 
 /* ESERCIZIO 6
