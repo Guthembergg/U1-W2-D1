@@ -13,13 +13,12 @@ REGOLE
 
 /* SCRIVI QUI LA TUA RISPOSTA */
 
-/*
-string - datatype di tipo stringa contenente parole o frasi contenente lettere e numeri- es let stringa="ciao"
-number - datatype di tipo numerico contenente numeri di qualsiasi tipo interi o decimali- es let numero1= 5
-boolean - datatype di tipo booleano contenente un valore vero o falso (true o false)- es let bool= true
-undefined - datatype di valore non definito dunque non ancora assegnato, la variabile è stata definita ma il valore non ancora assegnato - es let nondefinito
-null - datatype di valore nullo o vuoto - es let valore = null
-*/
+/*string - datatype di tipo stringa contenente parole o frasi contenente lettere e numeri- es */ let stringa =
+  "ciao";
+/*number - datatype di tipo numerico contenente numeri di qualsiasi tipo interi o decimali- es */ let numer1 = 5;
+/*boolean - datatype di tipo booleano contenente un valore vero o falso (true o false)- es */ let bool = true;
+/*undefined - datatype di valore non definito dunque non ancora assegnato, la variabile è stata definita ma il valore non ancora assegnato - es */ let nondefinito;
+/*null - datatype di valore nullo o vuoto - es */ let valore = null;
 
 /* ESERCIZIO 2
  Crea una variable chiamata "name" e assegna ad essa il tuo nome, sotto forma di stringa.
