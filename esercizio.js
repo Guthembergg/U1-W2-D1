@@ -26,7 +26,7 @@ null - datatype di valore nullo o vuoto - es let valore = null
 */
 
 /* SCRIVI QUI LA TUA RISPOSTA */
-let name = "karim guettech";
+let name1 = "karim guettech";
 
 /* ESERCIZIO 3
  Scrivi il codice necessario ad effettuare un addizione (una somma) dei numeri 12 e 20.
@@ -45,7 +45,7 @@ let x = 12;
 */
 
 /* SCRIVI QUI LA TUA RISPOSTA */
-name = "guettech";
+name1 = "guettech";
 const cognome = "Guettech";
 
 //cognome = name;
