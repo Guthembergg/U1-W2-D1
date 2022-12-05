@@ -14,11 +14,11 @@ REGOLE
 /* SCRIVI QUI LA TUA RISPOSTA */
 
 /*
-string - datatype di tipo stringa contenente parole o frasi
-number - datatype di tipo numerico contenente numeri di qualsiasi tipo interi o decimali
-boolean - datatype di tipo booleano contenente un valore vero o falso (true o false)
-undefined - datatype di valore non definito dunque non ancora assegnato, la variabile è stata definita ma il valore non ancora assegnato
-null - datatype di valore nullo o vuoto 
+string - datatype di tipo stringa contenente parole o frasi - es let number = 5
+number - datatype di tipo numerico contenente numeri di qualsiasi tipo interi o decimali- es let stringa="ciao"
+boolean - datatype di tipo booleano contenente un valore vero o falso (true o false)- es let bool= true
+undefined - datatype di valore non definito dunque non ancora assegnato, la variabile è stata definita ma il valore non ancora assegnato - es let nondefinito
+null - datatype di valore nullo o vuoto - es let valore = null
 */
 
 /* ESERCIZIO 2
@@ -27,6 +27,7 @@ null - datatype di valore nullo o vuoto
 
 /* SCRIVI QUI LA TUA RISPOSTA */
 let name = "karim guettech";
+
 /* ESERCIZIO 3
  Scrivi il codice necessario ad effettuare un addizione (una somma) dei numeri 12 e 20.
 */
