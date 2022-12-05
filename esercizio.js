@@ -68,4 +68,4 @@ console.log(risultato);
 name1 = "john";
 name2 = "John";
 console.log(name1 === name2);
-console.log(name2.lowercase === name1.lowercase);
+console.log(name2.toLowerCase() === name1.toLowerCase());
