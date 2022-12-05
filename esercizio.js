@@ -14,11 +14,11 @@ REGOLE
 /* SCRIVI QUI LA TUA RISPOSTA */
 
 /*
-string datatype stringa contenente parole o frasi
-number datatype numero contenente numeri
-boolean datatype booleano contenente un valore vero o falso
-undefined valore non definito dunque non ancora assegnato
-null valore nullo vuoto 
+string - datatype di tipo stringa contenente parole o frasi
+number - datatype di tipo numerico contenente numeri di qualsiasi tipo interi o decimali
+boolean - datatype di tipo booleano contenente un valore vero o falso (true o false)
+undefined - datatype di valore non definito dunque non ancora assegnato, la variabile è stata definita ma il valore non ancora assegnato
+null - datatype di valore nullo o vuoto 
 */
 
 /* ESERCIZIO 2
