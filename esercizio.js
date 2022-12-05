@@ -32,12 +32,14 @@ let name1 = "karim guettech";
 */
 /* SCRIVI QUI LA TUA RISPOSTA */
 let num1 = 12 + 20;
+
 /* ESERCIZIO 4
  Crea una variable di nome "x" e assegna ad essa il numero 12.
 */
 
 /* SCRIVI QUI LA TUA RISPOSTA */
 let x = 12;
+
 /* ESERCIZIO 5
   Riassegna un nuovo valore alla variabile "name" già esistente: il tuo cognome.
   Dimostra l'impossibilità di riassegnare un valore ad una variabile dichiarata con il costrutto const.
@@ -55,7 +57,9 @@ const cognome = "Guettech";
 */
 
 /* SCRIVI QUI LA TUA RISPOSTA */
+
 let risultato = 4 - x;
+
 console.log(risultato);
 /* ESERCIZIO 7
  Crea due variabili: "name1" e "name2". Assegna a name1 la stringa "john", e assegna a name2 la stringa "John" (con la J maiuscola!).
@@ -64,7 +68,8 @@ console.log(risultato);
 */
 
 /* SCRIVI QUI LA TUA RISPOSTA */
+
 name1 = "john";
 name2 = "John";
-console.log(name1 === name2);
+console.log(name1 === name2); /* oppure name1 !== name2 */
 console.log(name2.toLowerCase() === name1.toLowerCase());
